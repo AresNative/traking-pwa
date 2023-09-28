@@ -1,0 +1,7 @@
+{
+  "name": "tracking-pwa",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
